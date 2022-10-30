@@ -36,3 +36,4 @@ MATCH_LENGTH READ2
 MATCH_LENGTH READ3
 MATCH_LENGTH READ4
 ```
+The assembled reads are in the file `output.txt`. This contains the starting read name and the sequence followed by it.
