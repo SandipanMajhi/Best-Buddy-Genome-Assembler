@@ -36,4 +36,4 @@ MATCH_LENGTH READ2
 MATCH_LENGTH READ3
 MATCH_LENGTH READ4
 ```
-The assembled reads are in the file `output.txt`. This contains the starting read name and the sequence followed by it.
+The assembled reads are in the file `output.txt`. This contains the starting read name and the sequence followed by it. The sample `output.txt`file present here was the output obtained from the sample fastq file. Here `bmr.txt` and `unitigs.txt` are sample files created in the intermediate steps of the main driver code `main.py`.
